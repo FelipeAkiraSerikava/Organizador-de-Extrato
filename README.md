@@ -1,2 +1,1 @@
-# Finan-as
-Sistema para organizar o extrato e gasto da conta bancária, por exemplo, de um usuário.
+Programa simples em C++ com o objetivo de separar os gastos no intuito de organizar melhor a entrada e saída de dinheiro. O programa está bem simples apenas por ser um simulador.
